@@ -1,2 +1,2 @@
 # Simple-http-server-Go
-This is a simple http server write with Goland
+这是用Go写的一个简单的http服务，参考视频是：https://www.youtube.com/watch?v=jFfo23yIWac&t=8439s
